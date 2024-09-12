@@ -9,6 +9,7 @@ public class AEasy {
             arr[i]=scn.nextInt();
         }
         int count=0;
+        
         for(int j=0;j<t;j++){
             if(arr[j]==0){
                 count++;
